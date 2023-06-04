@@ -1,1 +1,1 @@
-# Python_Data_Analysis
+# Python_Data_Analysis:- Developed a Python-based Diwali sales analysis project, leveraging two-pointers methodology, to extract valuable insights on customer purchasing patterns and optimize marketing strategies.
